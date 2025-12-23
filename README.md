@@ -24,7 +24,7 @@ Let's embark on this exciting web development journey together! 😊
 
 - 🚀 Always exploring new tools and frameworks to improve my development skills.
 
-- 📫 How to reach me **Biswajeetmohanta@gmail.com**
+- 📫 How to reach me **Biswajeetmohanta123@gmail.com**
 
 - ⚡ Fun fact **I'm Cool**
 
