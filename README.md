@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biswajeet Mohanta</h1>
+<h1 align="center">Hi 👋, I'm Biswajit Mohanta</h1>
 
 ## About Me 🎓
 
