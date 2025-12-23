@@ -8,9 +8,9 @@
 
 Let's embark on this exciting web development journey together! 😊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Biswajeetmohanta123&label=Profile%20views&color=0e75b6&style=flat" alt="Biswajeetmohanta123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Biswajeetmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="Biswajeetmohanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biswajeetmohanta123" alt="Biswajeetmohanta123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biswajeetmohanta" alt="Biswajeetmohanta" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
 
@@ -24,7 +24,7 @@ Let's embark on this exciting web development journey together! 😊
 
 - 🚀 Always exploring new tools and frameworks to improve my development skills.
 
-- 📫 How to reach me **biswajeetmohanta123@gmail.com**
+- 📫 How to reach me **Biswajeetmohanta@gmail.com**
 
 - ⚡ Fun fact **I'm Cool**
 
@@ -118,8 +118,8 @@ Let's embark on this exciting web development journey together! 😊
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajeetmohanta123&show_icons=true&locale=en&layout=compact" alt="Biswajeetmohanta123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Biswajeetmohanta&show_icons=true&locale=en&layout=compact" alt="Biswajeetmohanta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Biswajeetmohanta123&show_icons=true&locale=en" alt="Biswajeetmohanta123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Biswajeetmohanta&show_icons=true&locale=en" alt="Biswajeetmohanta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajeetmohanta123" alt="Biswajeetmohanta123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajeetmohanta" alt="Biswajeetmohanta" /></p>
