@@ -16,7 +16,7 @@ Let's embark on this exciting web development journey together! 😊
 
 - 🌱 🌱 I’m currently learning Laravel, REST APIs, and MySQL optimization.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vU0FFg7CaWXNFu1kOdNBagK1U7H2q816/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cCjqLLBMsVitkHbYvqPiCLT2x-iMr3G4/view?usp=drive_link)
 
 - 💬 Ask me about Core PHP, Laravel, and API development.**
 
